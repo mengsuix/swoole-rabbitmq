@@ -1,0 +1,2 @@
+# swoole-rabbitmq
+使用swoole开发的一个基于rabbitmq的消息队列处理系统
