@@ -1,0 +1,21 @@
+{
+    "name": "msx/tast-system",
+    "description": "Task processing system",
+    "type": "project",
+    "autoload": {
+        "files": [
+            "core/functions.php"
+        ],
+        "psr-4": {
+            "App\\" : "app/",
+            "Core\\" : "core/"
+        }
+    },
+    "require": {
+        "ext-pdo": "*",
+        "ext-redis": "*",
+        "ext-json": "*",
+        "php-amqplib/php-amqplib": "^2.11",
+        "ramsey/uuid": "^4.0"
+    }
+}
