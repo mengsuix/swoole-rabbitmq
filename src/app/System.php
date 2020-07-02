@@ -1,5 +1,5 @@
 <?php
-namespace Core\App;
+namespace SwooleRabbitmq\App;
 
 class System
 {

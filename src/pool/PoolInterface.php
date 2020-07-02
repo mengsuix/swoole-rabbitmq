@@ -1,5 +1,5 @@
 <?php
-namespace Core\Pool;
+namespace SwooleRabbitmq\Pool;
 
 interface PoolInterface
 {

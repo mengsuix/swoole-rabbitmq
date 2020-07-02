@@ -1,5 +1,5 @@
 <?php
-namespace Core\Go;
+namespace SwooleRabbitmq\Go;
 
 use Swoole\Coroutine;
 
