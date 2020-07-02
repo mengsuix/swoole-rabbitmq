@@ -1,5 +1,5 @@
 {
-    "name": "msx/tast-system",
+    "name": "msx/swoole-rabbitmq",
     "description": "Task processing system",
     "type": "project",
     "autoload": {
